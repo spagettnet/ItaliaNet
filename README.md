@@ -1,5 +1,7 @@
 # Italianet
-Here are is a random selection of 12 validation images
+- A Neural Network for Blind Italians!
+
+Here is a random selection of 12 validation images
 
 ![Alt text](output.png?raw=true "Example Output")
 
